@@ -5,7 +5,7 @@ Sou programador Front-end Apaixonado pelas melhores tecnologias de desenvolvimen
 Sou aluno na Udemy, onde estou aprendendo na prática sobre as tecnologias mais modernas de
 desenvolvimento web e mobile...
 
-ReactJS | NodeJS | Javascript | Typescript | Git | Github 
+| HTML5 | CSS | JavaScript | Git | Github 
 
 <br>Estou em busca de oportotunidades no ramo sejam elas remotas ou não, gosto de desafios e tenho muito a contribuir e aprender!
 <br> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e seriados no Netflix.
