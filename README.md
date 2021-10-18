@@ -1,5 +1,4 @@
 ### Olá, eu sou Rafael 👋
-Sou programador Front-end Apaixonado pelas melhores tecnologias de desenvolvimento web.
 Sou aluno na Rocketseat e recentemente ingressei na Udemy para aprender React e Backend, onde estou aprendendo na prática sobre as tecnologias mais modernas de
 desenvolvimento web e mobile...
 
