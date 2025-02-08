@@ -1,6 +1,5 @@
 ### Olá, eu sou Rafael 👋
-Sou aluno na Rocketseat e recentemente ingressei na Udemy para aprender React e Backend, onde estou aprendendo na prática sobre as tecnologias mais modernas de
-desenvolvimento web e mobile...
+Sou desenvolvedor Front-end, apaixonado por criar experiências web e mobile de alto nível. Estudo continuamente em plataformas como Rocketseat e Udemy, focando em Java, Spring Backend e as tecnologias mais modernas do mercado. Tenho experiência prática em JavaScript, React.
 
 <div align="center">
   <a href="https://github.com/rafaellima61">
