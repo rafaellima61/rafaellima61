@@ -1,5 +1,5 @@
-### Olá, eu sou Rafael 👋
-Sou desenvolvedor Front-end, apaixonado por criar experiências web e mobile de alto nível. Estudo continuamente em plataformas como Rocketseat e Udemy, focando em Java, Spring Backend e as tecnologias mais modernas do mercado. Tenho experiência prática em JavaScript, React.
+### Hello! I'm Rafael 👋
+I'm a Front-end developer, passionate about creating high-level web and mobile experiences. I continually study on platforms such as Rocketseat and Udemy, focusing on Java, Spring Backend and the most modern technologies on the market. I have practical experience in JavaScript, React.
 
 <div align="center">
   <a href="https://github.com/rafaellima61">
